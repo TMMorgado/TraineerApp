@@ -1,13 +1,15 @@
 TrainerApp – Final Project
 📌 Overview
 
-TrainerApp é uma plataforma full-stack desenvolvida para apoiar formadores na gestão das suas atividades profissionais diárias.
-O objetivo foi centralizar tarefas de sala de aula, necessidades administrativas, logística e gestão financeira numa só aplicação intuitiva.
+TrainerApp is a full-stack platform designed to support trainers in managing their daily professional activities.
+The goal of the system is to centralize classroom organization, administrative requirements, logistics, and financial management into a single intuitive application.
 
 👥 Team
 
 Ana Neves
+
 Marcelo Valente
+
 Tiago Morgado
 
 Client: João Câncio
@@ -19,35 +21,35 @@ Project Type: Full-Stack Application (Laravel + MySQL)
 
 Total invoicing and earnings
 
-Revenue comparison (institutions, dates)
+Revenue comparison by institution and date
 
-Revenue charts
+Visual revenue charts
 
 🗂 Administrative Management
 
-Upload & merge legal documents:
+Upload and merge legal documents:
 
 Insurance
 
 Criminal record
 
-ID
+Identification
 
-Download all in a single file
+Download all documents merged into a single file.
 
 🗓 Calendar
 
-Simple and intuitive calendar interface (Full calendar)
+Simple and intuitive calendar
 
-Color coded events (course/module/institution)
+Color coded events by course, module, or institution
 
 🏫 Classroom Management
 
 Student registration
 
-Assign final grades
+Assigning final grades
 
-Manage courses, institutions and modules
+Courses, institutions, and modules management
 
 🛠 Technology Stack
 Backend
@@ -80,22 +82,22 @@ Figma (UI/UX design)
 
 🧱 Project Architecture
 
-Follows the MVC (Model-View-Controller) design pattern:
+The platform follows the MVC (Model-View-Controller) pattern to ensure:
 
 Clear separation of logic, data, and UI
 
-Scalable structure for future expansion
+Scalable and modular structure
 
 📐 Development Workflow
 1. Database
 
-ER Diagram & data modeling
+ER diagram and data modeling
 
-Implementation on Laravel + MySQL
+Implementation in Laravel + MySQL
 
 2. UI/UX Design
 
-Full design using Figma
+Full interface designed in Figma
 
 3. Frontend & Backend Integration
 Frontend
@@ -122,19 +124,19 @@ Database integration
 
 Business logic
 
-Dashboard & calendar logic
+Dashboard and calendar logic
 
 PDF/document processing
 
 🚧 Challenges
 
-Database redesign required multiple iterations
+Multiple redesigns required for database structure
 
-Document merging logic
+Document merging logic complexity
 
 FullCalendar customization
 
-Integration for search and edit workflows
+Search and edit workflows integration
 
 ✔ Achievements
 
@@ -142,14 +144,14 @@ All core client requirements delivered
 
 Scalable and intuitive interface
 
-Strong communication and teamwork throughout development
+Excellent communication and teamwork
 
 🔮 Future Improvements
 Financial
 
-New filtering options
+Additional filters
 
-Revenue per course/module/year
+Revenue by course/module/year
 
 Students Page
 
@@ -159,5 +161,5 @@ Notes and behavior metrics
 
 🤝 Team Feedback
 
-A proactive and motivated team that se manteve focada durante todo o projeto.
-Comunicação constante, partilha de ideias e autonomia nas decisões.
+A proactive, motivated, and focused development team.
+Open communication and fast decision-making were key throughout the entire project.
